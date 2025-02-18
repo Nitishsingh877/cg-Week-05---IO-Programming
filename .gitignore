@@ -38,3 +38,11 @@ build/
 .DS_Store
 
 pom.xml
+
+
+*.class
+*.DS_Store
+**/*.iml
+*.idea/
+*.iml
+out/-
