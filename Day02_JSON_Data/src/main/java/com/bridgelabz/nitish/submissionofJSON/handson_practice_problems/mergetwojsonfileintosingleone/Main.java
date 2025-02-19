@@ -1,4 +1,4 @@
-package com.bridgelabz.nitish.submissionofJSON.mergetwojsonfileintosingleone;
+package com.bridgelabz.nitish.submissionofJSON.handson_practice_problems.mergetwojsonfileintosingleone;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;

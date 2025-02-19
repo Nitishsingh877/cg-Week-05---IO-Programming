@@ -1,4 +1,4 @@
-package com.bridgelabz.nitish.submissionofJSON.handson_practice_problems.readaJsonfile.javaobjecttojsonarray;
+package com.bridgelabz.nitish.submissionofJSON.handson_practice_problems.javaobjecttojsonarray;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
