@@ -1,4 +1,4 @@
-package com.bridgelabz.nitish.submissionofJSON.practice_problems;
+package com.bridgelabz.nitish.submissionofJSON.practice_problems.convertJavaObject;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.util.*;
 
