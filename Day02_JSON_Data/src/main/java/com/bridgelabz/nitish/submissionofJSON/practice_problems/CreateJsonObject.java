@@ -11,13 +11,13 @@ public class CreateJsonObject {
         subjects.put("Hindi");
         subjects.put("sanskrit");
 
-        
+
         jsonObject.put("name" , "Nitish singh");
         jsonObject.put("age",18);
         jsonObject.put("Subjects", subjects);
 
 
-        System.out.println(jsonObject.toString());
+        System.out.println(jsonObject.toString(2));
 
     }
 }
