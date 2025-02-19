@@ -1,11 +1,3 @@
-name,course,id
-John Doe,Computer Science,12345
-Jane Smith,Mathematics,67890
-David Lee,Physics,13579
-Sarah Jones,Biology,24680
-Michael Brown,Chemistry,98765
-Emily Davis,English Literature,43210
-Robert Wilson,History,56789
-Ashley Garcia,Economics,87654
-Christopher Rodriguez,Psychology,10111
-Jessica Martinez,Sociology,20222
+version https://git-lfs.github.com/spec/v1
+oid sha256:e10dfe73db4951633d6ae2335b6f7a52cec8cc75277776d38af277b965ccdf83
+size 332
